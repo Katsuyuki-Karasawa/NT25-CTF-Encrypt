@@ -1,2 +1,2 @@
 # NT25-CTF-Encrypt
-[PGPkey in here](https://keybase.io/l4ph)
+[PGP key in here](https://keybase.io/l4ph)
